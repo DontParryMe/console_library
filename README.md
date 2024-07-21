@@ -24,3 +24,7 @@
 
 ## Запуск 
    python main.py
+## Запуск тестов
+   python -m unittest tests/test_book.py
+p   ython -m unittest tests/test_library.py
+
